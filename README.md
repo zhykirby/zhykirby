@@ -1,6 +1,11 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=zhykirby&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=false" />
 
 ### Hi there 👋
+看了下几个月前的代码，真是不堪入目= =
+工作的原因，用的不是github也不是gitlab，所以也没什么空去更新这里了
+有空再更新下一些算法吧
+欢迎在bilibili🔍消失的阴天
+可能会更新些代码相关视频
 
 
 <!--
